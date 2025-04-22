@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>爆神分析王 - 首頁</h1><a href='/login'>登入</a></div>); }

@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>VIP 專區</h1><p>此功能僅限會員使用，請升級 VIP 解鎖。</p></div>); }

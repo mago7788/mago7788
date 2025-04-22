@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>預測頁</h1><p>模擬牌路：莊、閒、閒、莊</p><p>下一把預測：建議下注【莊】</p><a href='/vip'>VIP 解鎖</a></div>); }

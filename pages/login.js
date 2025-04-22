@@ -1,0 +1,1 @@
+export default function Page() { return (<div><h1>登入頁</h1><p>帳號：admin 密碼：123456</p><a href='/predict'>登入後進入預測</a></div>); }
