@@ -16,8 +16,7 @@
 {
   "name": "baoshen-demo",
   "version": "1.0.0",
-  // 小改動 for 部署觸發
-  "scripts": {
-    ...
+  "scripts": 
+  {
   }
 }
